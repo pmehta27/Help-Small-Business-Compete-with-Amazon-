@@ -17,3 +17,6 @@ There are two important data sets: books and ratings. The books dataset comprise
 
 ## Conclusion
 For this project, we implemented user based collaborative filtering to make recommendations. This will allow websites like Bookdepository, AbeBooks to compete with Amazon recommending excellent products.
+
+## Contact
+Created by [@pmehta27](https://www.linkedin.com/in/pooja-ym-mehta) - Please feel free to contact me, thank you for your time!
