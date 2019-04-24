@@ -1,4 +1,4 @@
-# Book-Recommender-Systems
+# Help Small Business Compete with Amazon
 
 ## Introduction
 Dont you hate it when you are looking for a good book and you do not know which one to read? In order to address the aforementioned problem, we built a recommendation system for books using collaborative filtering methods - user based and item based collaborative filtering. Recommendation system, in essence, is an automated decision engine that helps user make better choices by evaluating the similarities between user ratings and/or item ratings to make a recommendation about the next item. These systems exploit data mining and information retrieval techniques to predict the extent to which an item/book suits the user needs and recommends the one with the largest prediction score.
